@@ -10,7 +10,7 @@ from distutils.core import setup
 # Package meta-data.
 NAME = 'CoxModelSelection'
 DESCRIPTION = 'Choose a model to use using different selection criterion'
-URL = 'https://github.com/me/myproject'
+URL = 'https://github.com/adroit28/CoxModel'
 EMAIL = 'suraj_bansal@outlook.com'
 AUTHOR = 'Suraj Bansal'
 REQUIRES_PYTHON = '>=2.7.0'
